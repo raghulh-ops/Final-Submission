@@ -21,23 +21,20 @@ Please fill in the following details in this README file before submitting your 
 
 Please ensure that your submission includes the following:
 
-1. **💻 Project Source Code:**  
-   - All the code necessary to run your project.
-
-2. **📊 PPT/Slide Deck:**  
+1. **📊 PPT/Slide Deck:**  
    - A presentation explaining your project, including the problem statement, solution, and any other relevant details.
 
-3. **🎥 Video Demo:**  
+2. **🎥 Video Demo:(Not Mandatory)**  
    - A recorded demonstration of your project in action.
 
-4. **📚 Documentation:**  
+3. **📚 Documentation:**  
    - Any additional documentation that will help us understand and evaluate your project.
 
 ---
 
 ## 📌 **Submission Instructions**
 
-1. **Upload all required files** (source code, PPT, video demo, and documentation) to this repository.
+1. **Upload all required files** ( PPT, video demo, and documentation) to this repository.
 2. Ensure all files are **properly named and organized** according to the structure outlined above.
 3. Once everything is uploaded, **submit the link** to this repository as your final submission.
 
@@ -47,9 +44,7 @@ Please ensure that your submission includes the following:
 
 ### 💬 **Contact Us**
 
-If you have any questions or encounter any issues, please contact us at:
-
-- **📧 Email:** srcasprogrammingclub@gmail.com
+If you have any questions or encounter any issues, please contact us !
 
 ---
 
